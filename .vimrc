@@ -15,7 +15,7 @@ set backspace=indent,eol,start
 set hls
 set is
 set clipboard=unnamed
-set guifont=DepartureMono_Nerd_Font:h15
+set guifont=DepartureMono_Nerd_Font:h16
 set tabstop=4
 set shiftwidth=4
 set softtabstop=4
